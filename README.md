@@ -45,3 +45,34 @@ We will use an authorised lab/test machine with Linux and Python installed. The 
 To create a well known event we will use a small test programme. This will not include any usernames or personal data.
 This data set is suitable as it will include relevant data.
 
+## Dataset Availability Research
+
+The project will use a self-recorded
+process-monitoring dataset generated
+using Python's psutil library.
+
+The dataset will capture process
+information such as:
+
+- Process ID (PID)
+- Process name
+- CPU usage
+- Memory usage
+
+The data will be collected from a
+student laptop during controlled
+experiments involving normal and
+intentionally misbehaving processes.
+
+A test program that continuously uses
+CPU resources or increases memory
+consumption will be used to simulate
+runaway processes.
+
+Usernames and other personal
+information will be excluded.
+
+The sampling interval, recording
+duration and machine specifications
+will be determined before data
+collection begins.
