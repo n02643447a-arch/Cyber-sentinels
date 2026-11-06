@@ -14,7 +14,7 @@ Kachamaenza Panashe. N02647554X
 Pagwiwa Job. N02641299D
 
 Project Tittle:
-Catching Runaway Processes: Light Weight Watchdog Tool for a Lab Machine
+Catching Runaway Processes: Light Weight Watchdog Tool for a Lab Machine.
 
 Research Question:
 How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine.
