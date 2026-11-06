@@ -13,6 +13,9 @@ Machina Tinotenda  N02647056Q
 Kachamaenza Panashe N02647554X
 Pagwiwa Job N02641299D
 
+Project Tittle:
+A Lightweight eBPF Monitor for a Small ISP
+
 Research Question:
 How can eBPF be used to detect suspicious network activity on small ISPs?
 Research Aim:
