@@ -1,8 +1,26 @@
-BCC Prototype Research 
+Nzara Donald. N02643447A
+Kasambala Ethan. N02645273N
+Gilima Manners. N02640778M
+Sharara Sean M. N02644364R
+Dube Minenhle. N02648506B
+Mukotosi Batsirai. N02642542N
+Mtetwa Michelle T. N02657625F
+Siziba Andisiwe. N02647048V
+Matope Takudzwanashe. N02656517G
+Chitsiga Golden. N02648925M
+Chikava Tawananyasha  N02646304N
+Machina Tinotenda. N02647056Q
+Kachamaenza Panashe N02647554X
+Pagwiwa Job N02641299D
 
-Michelle T Mtetwa 
-N02657625F
-Group 5- Operating System
-
+Research Question:
+How can eBPF be used to detect suspicious network activity on small ISPs?
+Research Aim:
+To create a basic eBPF monitor to detect suspicious network activity on small ISPs.
+Objectives:
+Understand how eBPF works within the Linux Kernel.
+Explore the use of eBPF in network monitoring AND security.
+Construct and evaluate a basic eBPF network monitor.
+Why are you doing this research? Small ISPs are vulnerable to cyber attacks AND suspicious network activity, however they often cannot afford good monitoring tools. This project looks into how eBPF can be used to create a lightweight low cost network monitoring tool.
 
 This research is about BCC, BPF Compiler Collection, a collection of open source tools used for building eBPF programs for Linux. We will use BCC to create a light-weight prototype tool which will monitor network traffic, and detect attacks such as DDoS, DoS and port scans. This prototype has been created for small ISPs, internet service providers, in Zimbabwe who need an inexpensive and quick way of monitoring their traffic.
