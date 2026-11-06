@@ -21,11 +21,3 @@ How can I design a light weight watchdog tool in python using psutil to identify
 
 Research Aim:
 To design and evaluate a light weight watchdog tool for Python that uses Psutil to monitor processes and detect processes that are using excessive resources.
-
-Objectives
-Understand how eBPF works within the Linux Kernel.
-Explore the use of eBPF in network monitoring AND security.
-Construct and evaluate a basic eBPF network monitor.
-Why are you doing this research? Small ISPs are vulnerable to cyber attacks AND suspicious network activity, however they often cannot afford good monitoring tools. This project looks into how eBPF can be used to create a lightweight low cost network monitoring tool.
-
-This research is about BCC, BPF Compiler Collection, a collection of open source tools used for building eBPF programs for Linux. We will use BCC to create a light-weight prototype tool which will monitor network traffic, and detect attacks such as DDoS, DoS and port scans. This prototype has been created for small ISPs, internet service providers, in Zimbabwe who need an inexpensive and quick way of monitoring their traffic.
