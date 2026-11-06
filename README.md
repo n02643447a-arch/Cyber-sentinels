@@ -44,3 +44,34 @@ Sampling Interval:** Data is gathered every 5 seconds.
 Duration:Monitoring sessions run for a total of 10 minutes.
 Captured Metrics:** Process ID, Name, CPU Usage, Memory Usage, and Timestamp.
 Output: The sampled data is automatically saved into a CSV file for subsequent analysis and evaluation.
+
+## Research on Resource Monitoring
+
+### 1. What is Resource Monitoring?
+
+Resource monitoring is the process of observing and tracking how computer system resources are being used. It helps identify processes that consume excessive system resources and may affect system performance.
+
+### 2. Resources to Monitor
+
+The project will focus on the following system resources:
+
+- **CPU Usage:** Measures the percentage of processing power being used by a process.
+- **Memory Usage:** Measures the amount of RAM consumed by a process.
+- **Process ID (PID):** Identifies individual running processes.
+- **Process Name:** Helps identify which application or program is consuming resources.
+
+### 3. Importance of Resource Monitoring
+
+Resource monitoring helps detect runaway processes that consume unusually high amounts of CPU or memory. Such processes may cause slow system performance, excessive resource consumption or system instability.
+
+### 4. Tools for Resource Monitoring
+
+Python's `psutil` library will be used to collect information about running processes, CPU usage and memory consumption.
+
+### 5. Application to the Project
+
+The watchdog tool will periodically monitor running processes and examine their CPU and memory usage. It will help identify processes that exceed defined resource usage thresholds and generate alerts for possible runaway processes.
+
+### 6. Research Limitation
+
+The monitoring system will focus on CPU and memory usage. It will run on a typical student laptop and will not require specialised hardware or paid monitoring services.
