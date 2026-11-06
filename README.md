@@ -23,4 +23,10 @@ Research Aim:
 To design and evaluate a light weight watchdog tool for Python that uses Psutil to monitor processes and detect processes that are using excessive resources.
 
 This project involves process management . process management is an operating system which helps create, schedule and manage process. it helps CPU time and memory resources
+Objectives
 
+Research into how Process Management works within the Operating System and how runaway processes affect CPU performance and Memory resources.
+
+Design a watchdog tool in Python using Psutil to monitor processes and gather data such as Process ID, Name, CPU Usage and Memory Usage.
+
+Evaluate how effective the watchdog tool is by analysing how quickly it detects a process, how accurate it is at detecting test events, how many false alerts there are, and the CPU/Memory Usages.
