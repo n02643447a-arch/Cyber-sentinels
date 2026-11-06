@@ -1,0 +1,27 @@
+eBPF and Linux Kernel Monitoring
+Student Name: Kasambala Ethan
+Registration Number: N02645273N
+Group: 6 – Operating System
+Project :Catching Runaway Processes: A Lightweight Watchdog for a Lab Machine
+
+Introduction
+eBPF its an abbreviation for Extended Berkeley Packet Filter. Its technology in the Linux operating system that allows programs to run safely within the Linux kernel. It assists the  developer to monitor computer system activities,  collect information without having to modify or temper with the kernel itself and also control some activities 
+Relationship Between eBPF and the Linux Kernel
+The Linux kernel it acts as a bridge between software and hardware , it manages important computer operations like memory, computer processes, devices and networking. eBPF operates along side the kernel by allowing small programs to observe selected system events.
+Like eBPF can observe network connection events and provide useful information to monitoring applications.
+Application in Network Security
+eBPF can support network monitoring by assisting administrator observe network activities and identify unusual or suspensious behaviour or activities. It can provide information such as connectivity events, process details and network addresses.
+This information can help security teams investigate possible network threats
+Benefits for Small ISPs
+• It supports lightweight monitoring.
+• It helps us monitor into selected system and network events.
+• It can help identify unusual and suspensious network activities.
+• It can be integrated with other Linux monitoring tools.
+• It can help in network troubleshooting and security investigations.
+ Limitations
+eBPF requires an experienced user or one with technical knowledge to implement and manage. Its ability depend on the programs developed and the events selected. It is an incomplete cybersecurity solution and should work alongside other security measures.
+Conclusion
+eBPF provides useful abilities for monitoring Linux systems and network activities. Its ability to observe selected events makes it a dependable technology for developing lightweight network monitoring solutions for small Internet Service Providers.
+References
+1. Linux Kernel Documentation: https://docs.kernel.org/bpf/
+2. BCC Project: https://github.com/iovisor/bcc/
