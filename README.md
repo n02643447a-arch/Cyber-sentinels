@@ -30,3 +30,12 @@ Research into how Process Management works within the Operating System and how r
 Design a watchdog tool in Python using Psutil to monitor processes and gather data such as Process ID, Name, CPU Usage and Memory Usage.
 
 Evaluate how effective the watchdog tool is by analysing how quickly it detects a process, how accurate it is at detecting test events, how many false alerts there are, and the CPU/Memory Usages.
+Operating System Concept
+ 
+This project involves Process Management. Process Management is an Operating System feature which helps create, schedule and manage processes. It helps manage CPU time and Memory resources.
+ 
+Why is this useful?
+ 
+If there are runaway processes they can cause excessive CPU and Memory resource consumption causing lab machines to become very slow or even freeze. This could cause disruptions to student work. There is a public source called Microsoft Sysinternals Process Explorer which can be used to view processes and how much resources they are using.
+Public Source: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+ 
