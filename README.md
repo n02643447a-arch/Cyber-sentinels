@@ -17,12 +17,12 @@ Project Tittle:
 Catching Runaway Processes: Light Weight Watchdog Tool for a Lab Machine
 
 Research Question:
-How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine 
+How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine.
 
 Research Aim:
 To design and evaluate a light weight watchdog tool for Python that uses Psutil to monitor processes and detect processes that are using excessive resources.
 
-This project involves process management . process management is an operating system which helps create, schedule and manage process. it helps CPU time and memory resources
+This project involves process management . process management is an operating system which helps create, schedule and manage process. it helps CPU time and memory resources.
 
 Objectives:
 Research into how Process Management works within the Operating System and how runaway processes affect CPU performance and Memory resources.
@@ -35,7 +35,7 @@ Operating System Concept:
 This project involves Process Management. Process Management is an Operating System feature which helps create, schedule and manage processes. It helps manage CPU time and Memory resources.
  
 Why is this useful?
- 
+
 If there are runaway processes they can cause excessive CPU and Memory resource consumption causing lab machines to become very slow or even freeze. This could cause disruptions to student work. There is a public source called Microsoft Sysinternals Process Explorer which can be used to view processes and how much resources they are using.
-Public Source: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+Public Source: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer.
  
