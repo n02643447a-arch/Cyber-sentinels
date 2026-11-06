@@ -8,10 +8,10 @@ Mtetwa Michelle T. N02657625F
 Siziba Andisiwe. N02647048V
 Matope Takudzwanashe. N02656517G
 Chitsiga Golden. N02648925M
-Chikava Tawananyasha  N02646304N
-Machina Tinotenda  N02647056Q
-Kachamaenza Panashe N02647554X
-Pagwiwa Job N02641299D
+Chikava Tawananyasha. N02646304N
+Machina Tinotenda. N02647056Q
+Kachamaenza Panashe. N02647554X
+Pagwiwa Job. N02641299D
 
 Project Tittle:
 Catching Runaway Processes: Light Weight Watchdog Tool for a Lab Machine
