@@ -20,7 +20,7 @@ Research Question:
 How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine.
 
 Research Aim:
-To design and evaluate a light weight watchdog tool for Python that uses Psutil to monitor processes and detect processes that are using excessive resources.
+To design and evaluate a light-weight watchdog tool for Python that uses Psutil to monitor processes and detect processes that are using excessive resources.
 
 This project involves process management . process management is an operating system which helps create, schedule and manage process. it helps CPU time and memory resources.
 
