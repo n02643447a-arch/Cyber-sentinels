@@ -14,7 +14,7 @@ Kachamaenza Panashe: N02647554X
 Pagwiwa Job: N02641299D
 
 Project Tittle:
-Catching Runaway Processes: Light Weight Watchdog Tool for a Lab Machine.
+Catching Runaway Processes : Light Weight Watchdog Tool for a Lab Machine.
 
 Research Question:
 How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine.
@@ -34,13 +34,13 @@ Operating System Concept:
  
 This project involves Process Management. Process Management is an Operating System feature which helps create, schedule and manage processes. It helps manage CPU time and Memory resources.
  
-Why is this useful?
+Why is this useful ?
 
 If there are runaway processes they can cause excessive CPU and Memory resource consumption causing lab machines to become very slow or even freeze. This could cause disruptions to student work. There is a public source called Microsoft Sysinternals Process Explorer which can be used to view processes and how much resources they are using.
 Public Source: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer.
 
 Data:
-As stated in Group 6 we will create our own data set using Psutil in Python in the future so no data collection is needed.
+As stated in Group 6, we will create our own data set using Psutil in Python in the future so no data collection is needed.
 We will use an authorised lab/test machine with Linux and Python installed. The system will gather data for each process including Process ID, Name, CPU Usage, Memory Usage, and Timestamp. Data will be gathered every 5 seconds for a total of 10 minutes. This data will then be saved into a CSV file.
 To create a known event we will use a small test programme. This will not include any usernames or personal data.
 This data set is suitable as it includes relevant data.
