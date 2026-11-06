@@ -1,0 +1,7 @@
+Designed Watchdog - By Michelle Mtetwa (N02657625F)
+
+My role in this project was Designed Watchdog.
+
+I designed a light weight watchdog that uses Python and Psutil to watch processes running on a lab machine. The watchdog collects data (Process ID, Name, CPU Usage, Memory Usage and Timestamp) every 5 Seconds for 10 Minutes then saves it into a CSV File.
+
+During the design, the watchdog has a limit set for each process. If a process uses a high amount of CPU or Memory for a certain period of time, the watchdog will detect that it is a runaway process and display a warning message. This design will prevent one runaway process from slowing down/freezing the lab machine so the students can keep working.
