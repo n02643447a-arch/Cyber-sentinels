@@ -19,8 +19,8 @@ A Lightweight eBPF Monitor for a Small ISP
 Research Question:
 How can eBPF be used to detect suspicious network activity on small ISPs?
 Research Aim:
-To create a basic eBPF monitor to detect suspicious network activity on small ISPs.
-Objectives:
+To create a basic  eBPF monitor to detect suspicious network activity on small ISPs.
+Objectives
 Understand how eBPF works within the Linux Kernel.
 Explore the use of eBPF in network monitoring AND security.
 Construct and evaluate a basic eBPF network monitor.
