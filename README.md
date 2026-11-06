@@ -17,7 +17,7 @@ Project Tittle:
 A Lightweight eBPF Monitor for a Small ISP
 
 Research Question:
-How can eBPF be used to detect suspicious network activity on small ISPs?
+How can I design a light weight watchdog tool in python using psutil to identify processes that are consuming too much CPU AND Memory Resources on a Lab machine 
 Research Aim:
 To create a basic  eBPF monitor to detect suspicious network activity on small ISPs.
 Objectives
