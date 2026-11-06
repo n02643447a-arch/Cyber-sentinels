@@ -37,3 +37,10 @@ This project involves Process Management. Process Management is an Operating Sys
 Why is this useful ?
 
 If there are runaway processes they can cause excessive CPU and Memory resource consumption causing lab machines to become very slow or even freeze. This could cause disruptions to student work. There is a public source called Microsoft Sysinternals Process Explorer which can be used to view processes and how much resources they are using.
+
+Research Sampling Method;
+To monitor process resource consumption effectively without overloading the system, our tool uses a periodic sampling approach:
+Sampling Interval:** Data is gathered every 5 seconds.
+Duration:Monitoring sessions run for a total of 10 minutes.
+Captured Metrics:** Process ID, Name, CPU Usage, Memory Usage, and Timestamp.
+Output: The sampled data is automatically saved into a CSV file for subsequent analysis and evaluation.
