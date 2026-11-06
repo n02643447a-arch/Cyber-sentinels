@@ -1,6 +1,6 @@
 Nzara Donald. N02643447A
 Kasambala Ethan. N02645273N
-Gilima Manners. N02640778M
+Gijima Manners. N02640778M
 Sharara Sean M. N02644364R
 Dube Minenhle. N02648506B
 Mukotosi Batsirai. N02642542N
